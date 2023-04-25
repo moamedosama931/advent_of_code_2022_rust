@@ -1,2 +1,2 @@
-# advent_of_code_2022_rust
+# Advent of code 2022 using Rust
 Learning rust by solving advent of code
